@@ -9,3 +9,4 @@ Z = sin(x)+sin(y) %given function to find the y(x)
 YQ = 0.3
 ZQ = interp2(X,Y,Z,XQ,YQ)
 
+
