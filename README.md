@@ -1,5 +1,5 @@
-##heading matlabsaga
+## MATLAB SAGA
 
-#TOPICS INCLUDED
+# TOPICS INCLUDED
 
 1. Linear Interpolation
