@@ -1,0 +1,10 @@
+Text(
+          'This is body!',
+          style: TextStyle(
+            fontWeight: FontWeight.bold,
+            fontSize: 30,
+            color: Colors.black,
+            letterSpacing: 2,
+            fontFamily: 'OleoScriptSwashCaps-Regular',
+          ),
+        ),
