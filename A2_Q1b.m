@@ -27,7 +27,7 @@ disp('=============================')
 
 
 for i = 1:n+1
-fprintf('%d   %5.4f   %5.4f   %5.4f\n', [t(i); xa(i,1); xa(i,2); xa(i,3)])   
+fprintf('%d   %10.4f   %10.4f   %10.4f\n', [t(i); xa(i,1); xa(i,2); xa(i,3)])   
 end
 
 
